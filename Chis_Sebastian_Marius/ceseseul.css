@@ -1,0 +1,118 @@
+
+
+#EU1 {display:inline-block;
+	margin-right:22px;
+	 width:42px;
+	  } 
+
+#EU2 {display:inline-block; 
+	width:100px;
+	} 
+
+#email{
+	display: inline-block;
+	margin-top: 1px;
+
+}
+
+#emailFINAL{
+	display: inline-block;
+}
+
+#componenteSiCaracteristici{
+
+	margin-top: 30px;
+}
+
+
+table, th, td {
+  border: 1px solid black;
+}
+
+
+.oricevreitu{
+	color: rgb(105, 105, 105);
+	font-size: 20px;
+}
+
+.bodyFINAL{
+	background-color: #92a8d1
+	color: red;
+
+}
+
+#BODY{
+	background-color: rgb(240,248,255);
+}
+
+
+
+	
+
+#DOWLOAD1{
+	
+	display: inline-block;
+}
+#DOWNLOAD2{
+	
+	display: inline-block;
+}
+
+#UPLOAD2{
+	display: inline-block;
+}
+#UPLOAD1{
+	display: inline-block;
+
+
+}
+#FURNIZOR2{
+	display: inline-block;
+}
+
+#FURNIZOR1{
+	display: inline-block;
+}
+
+.pozaASTA{
+	width: 800px;
+	height: 620px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	opacity: 0.9;
+	border-radius: 14px 20px  5px;
+	
+}
+
+
+
+.MINUNI{
+	font-size: 40px;
+	font-family: Courier New;
+}
+
+.oricevreituFINAL{
+	font-size: 19px;
+	font-family: Brush Script MT;
+}
+
+#PREZENTARE{
+	background-color:rgb(	255,248,220);
+}
+
+.COMPONENTESICARACTERISTICI{
+	background-color: rgb(152,251,152);
+}
+
+.StructuraRetelei{
+	background-color: rgb(100,149,237);
+
+}
+.CaracteristiciConexiuniDeRetea{
+	background-color:  rgb(	230,230,250);
+}
+
+.MonitorizareResruse{
+	background-color: rgb(216,191,216);
+}
